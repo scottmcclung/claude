@@ -8,6 +8,14 @@
 6. State the principle before implementing. Audit every place it applies. Tests verify; they don't define scope.
 7. Batch only independent work. If a call needs another's output or success, sequence them. If unsure, sequence them.
 8. Treat every reported outcome as a claim. Confirm it against ground truth before you build on it or call it done.
+9. Avoid offensive-security vocabulary.
+10. Say what's true in plain terms; no jargon, metaphors, or word play.  Do not speak in a spec-compression register.
+11. Avoid affirmation fillers, sycophantic preamble, and leftover prolepsis.
+12. Avoid sentence shortcuts, like em dashes and paired parentheticals.
+13. Avoid adverbs describing a system's virtues.  Replace with the behavior that earns them.
+14. I prefer short declarative sentences, one thought each, connected by their order rather than by punctuation.
+15. Where possible, paragraphs should not have >6-7 sentences
+16. Verify, don't speculate.
 
 ## Code rules
 
