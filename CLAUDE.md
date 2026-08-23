@@ -22,6 +22,7 @@
 Follow these rules when writing code.
 
 1. For better clarity, always specify types in typed languages (e.g. Crystal, Go) even if they aren't explicitly required.
+   - Exception for Crystal blocks: block parameters at a call site cannot take type annotations. `arr.each { |x : Int32| }` is a syntax error. Leave call-site block parameters bare. Put the restriction on the method definition instead: `def transform(& : Int32 -> String)`.
 
 ## Beads (bd) issue tracker
 
