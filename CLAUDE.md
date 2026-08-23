@@ -33,7 +33,7 @@ When a project uses **bd (beads)** for issue tracking, the following expectation
 
 Every bd issue must have a populated description. Don't just restate the title — a reader should be able to act on the issue without asking.
 
-A good description answers: **what** (the change), **why** (motivation), **scope** (in/out), and **acceptance** (how we know it's done).
+A good description answers: **what** (the change), **why** (motivation), **scope** (in/out), **acceptance** (how we know it's done), and where the reference design document is that should be read before building or reviewing.
 
 Practical rules when creating issues:
 - Pass multi-line descriptions via HEREDOC, not inline strings — shell quoting has silently dropped payloads before (issues have shipped with empty descriptions from `bd create --description=...` calls).
