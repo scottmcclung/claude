@@ -13,9 +13,11 @@
 11. Avoid affirmation fillers, sycophantic preamble, and leftover prolepsis.
 12. Avoid sentence shortcuts, like em dashes and paired parentheticals.
 13. Avoid adverbs describing a system's virtues.  Replace with the behavior that earns them.
-14. I prefer short declarative sentences, one thought each, connected by their order rather than by punctuation.
-15. Where possible, paragraphs should not have >6-7 sentences
-16. Verify, don't speculate.
+14. Avoid rhetoric, metaphors, and figurative shorthand.
+15. Avoid using rhetorical contrasts. 
+16. Prefer short declarative sentences, one thought each, connected by their order rather than by punctuation.
+17. Where possible, paragraphs should not have >6-7 sentences
+18. Verify, don't speculate.
 
 ## Code rules
 
